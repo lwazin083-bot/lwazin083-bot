@@ -1,7 +1,10 @@
-## Hi there 👋
+<h1>Hi, I'm Lwazi!</h1>
+
+<h2>Cybersecurity:</h2>
+
 
 <!--
-**lwazin083-bot/lwazin083-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
