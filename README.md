@@ -1,6 +1,10 @@
 <h1>Hi, I'm Lwazi!</h1>
 
 <h2>Cybersecurity:</h2>
+<ul>
+  <li><a href=>Enable User and Sign-in risk policies in Entra ID</a></li>
+</ul>
+
 
 
 <!--
