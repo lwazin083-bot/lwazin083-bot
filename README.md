@@ -5,6 +5,7 @@
   <li><a href=https://github.com/lwazin083-bot/Enable-user-and-sign-in-risk-policy-with-in-Entra-ID>Enable User and Sign-in risk policies in Entra ID</a></li>
   <li><a href=https://github.com/lwazin083-bot/Entra-ID-monitoring-with-splunk>Entra ID monitoring with splunk</a></li>
   <li><a href=https://github.com/lwazin083-bot/Google-cloud-data-breach-response-and-remediation>Google Cloud data breach response and remediation</a></li>
+  <li><a href=https://github.com/lwazin083-bot/Alert-Triage/tree/main>Alert Triage</a></li>
 </ul>
 
 
