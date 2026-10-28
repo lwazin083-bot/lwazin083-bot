@@ -8,7 +8,6 @@
   <li><a href=https://github.com/lwazin083-bot/Alert-Triage/tree/main>Alert Triage</a></li>
 </ul>
 <br />
-<br />
 <h2>AI</h2>:
 
 
