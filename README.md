@@ -11,6 +11,7 @@
 <h2>AI:</h2>
 <ul>
   <li><a href=https://github.com/lwazin083-bot/Develop-a-generative-AI-chat-app-with-Microsoft-Foundry/tree/main>Build a generative AI chat app with Microsoft Foundry</a></li>
+  <li><a href=https://github.com/lwazin083-bot/Build-AI-agent-with-Microsoft-Foundry-and-VS-Code>Build IT support agent with Foundry and VS Code<a/></li>
 </ul>
 
 
