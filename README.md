@@ -6,6 +6,7 @@
   <li><a href=https://github.com/lwazin083-bot/Entra-ID-monitoring-with-splunk>Entra ID monitoring with splunk</a></li>
   <li><a href=https://github.com/lwazin083-bot/Google-cloud-data-breach-response-and-remediation>Google Cloud data breach response and remediation</a></li>
   <li><a href=https://github.com/lwazin083-bot/Alert-Triage/tree/main>Alert Triage</a></li>
+  <li><a href=https://github.com/lwazin083-bot/Building-an-Automated-Email-Phishing-Detection-System->Building an automated email phishing detection system</a></li>
 </ul>
 <br />
 <h2>AI:</h2>
